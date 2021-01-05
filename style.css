@@ -20,8 +20,13 @@ h2 {
 .container {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
   padding: 1rem;
+}
+
+.method {
+  width: 50%;
+  margin: auto;
+  text-align: left;
 }
 
 img {
@@ -33,15 +38,6 @@ img {
 
 .method {
   margin: 2rem;
-  max-width: 80%;
-}
-
-h4 {
-  margin: auto;
-  width: 100%;
-  text-align: center;
-}
-
-footer {
-  margin-left: 20px;
+  margin-top: 5rem;
+  max-width: 50%;
 }
