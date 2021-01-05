@@ -9,10 +9,6 @@ header {
   padding: 2rem;
 }
 
-header nav {
-  text-align: left;
-}
-
 h2 {
   font-family: "Sofia";
 }
@@ -21,12 +17,6 @@ h2 {
   display: flex;
   justify-content: center;
   padding: 1rem;
-}
-
-.method {
-  width: 50%;
-  margin: auto;
-  text-align: left;
 }
 
 img {
